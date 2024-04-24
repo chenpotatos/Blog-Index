@@ -1,13 +1,13 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "示例分类1",
+    title: "Websites",
     sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
+        title: "ICE-P Blog",
+        description: "一个个人博客",
+        url: "http://blog.ice-p.top",
         icon: "",
-        color: "#0171CD",
       },
       {
         title: "主标题",
